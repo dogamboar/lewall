@@ -213,11 +213,11 @@
  * @endcode
  */
 $databases = array (
-  'default' =>
+  'default' => 
   array (
-    'default' =>
+    'default' => 
     array (
-      'database' => 'lwdc',
+      'database' => 'lwdc2',
       'username' => 'lwdc',
       'password' => 'lwdc',
       'host' => 'localhost',
@@ -258,7 +258,7 @@ $update_free_access = FALSE;
  *   $drupal_hash_salt = file_get_contents('/home/example/salt.txt');
  *
  */
-$drupal_hash_salt = 'Otxn-g4QnAag4usrNKWVGjdlO7tpDGzHbFGmBXxz29M';
+$drupal_hash_salt = 'ybxj6ikb72WGL31ZYBLImMB4AdEcH1bkbc1qkYH-XFU';
 
 /**
  * Base URL (optional).
