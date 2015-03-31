@@ -217,7 +217,7 @@ $databases = array (
   array (
     'default' =>
     array (
-      'database' => 'lwdc',
+      'database' => 'lwdrupalcommerce',
       'username' => 'lwdc',
       'password' => 'lwdc',
       'host' => 'localhost',
